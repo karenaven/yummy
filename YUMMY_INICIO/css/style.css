@@ -14,7 +14,8 @@ html {
 }
 /** Scroll Snap**/
 .servicios,
-.navegacion-principal{
+.navegacion-principal, 
+.redes{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
